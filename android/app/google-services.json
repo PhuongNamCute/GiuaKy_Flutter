@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358329478561",
+    "project_id": "newapp-9055e",
+    "storage_bucket": "newapp-9055e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358329478561:android:a89d9d81d489279f3f6fe0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5hYwnxcZjbxbmA58NJVbh2TBdI6VvGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
